@@ -1,0 +1,37 @@
+# GitHub Push Security - Ignored Files
+
+# WordPress & Database
+public_html/wp-config.php
+*.sql
+
+# Security & Credentials
+*.key
+*.pub
+cloudflared_config.yml
+.gemini/
+
+# Archives & Large Files
+*.tar
+*.zip
+public_html_fixed.tar
+public_html_full.zip
+public_html_recursive.zip
+
+# Test & Maintenance Scripts
+check_mc4wp_settings.php
+cli_mail_test.php
+configure_fluent_smtp.py
+configure_wp_mail_smtp.php
+contact-handler.php
+direct_smtp_test.php
+extract.py
+find_mc4wp_usage.php
+patch_wp_config.py
+simple_wp_mail.php
+subscription_hook.php
+test_brevo_api.py
+test_fluent_smtp.php
+test_mail.php
+test_mail_v2.php
+test_mail_v3.php
+update_wp_urls.py

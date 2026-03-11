@@ -1,0 +1,297 @@
+
+.depicter-revert .depicter-1-element-19{
+	font-size:16px;
+	color:#000;
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-18{
+	font-size:16px;
+	color:#FFB340;
+	font-family:"Outfit";
+	font-weight:700;
+	line-height:140%;
+	text-transform:capitalize;
+	letter-spacing:1px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-15{
+	background-color:#FFFFFF;
+	border:none;
+}
+.depicter-revert .depicter-1-element-14{
+	background-color:#FFB340;
+	border:none;
+}
+.depicter-revert .depicter-1-element-13{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+}
+.depicter-revert .depicter-1-element-12{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-1-element-6{
+	font-size:55px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-7{
+	background-color:#FFB340;
+}
+.depicter-revert .depicter-1-element-5{
+	font-size:16px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Outfit";
+	font-weight:400;
+	background-color:#0D0D0D;
+}
+.depicter-revert .depicter-1-element-5:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-5:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#FFB340;
+	border-color:#000;
+}
+.depicter-revert .depicter-1-element-8{
+	font-size:18px;
+	color:#000000;
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-4{
+	font-size:23px;
+	color:rgba(0, 0, 0, 0.7);
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:60px;
+	color:#FFB340;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-2{
+	font-size:60px;
+	color:#000;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:transparent;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-element-19{
+	font-size:16px;
+	color:#000000;
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-18{
+	font-size:16px;
+	color:#FFB340;
+	font-family:"Outfit";
+	font-weight:700;
+	line-height:140%;
+	text-transform:capitalize;
+	letter-spacing:1px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-15{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-14{
+	background-color:#FFB340;
+}
+.depicter-revert .depicter-1-element-13{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+}
+.depicter-revert .depicter-1-element-12{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-1-element-6{
+	font-size:42px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-7{
+	background-color:#FFB340;
+}
+.depicter-revert .depicter-1-element-5{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Outfit";
+	font-weight:400;
+	background-color:#0D0D0D;
+}
+.depicter-revert .depicter-1-element-5:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-1-element-5:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	background-color:#FFB340;
+}
+.depicter-revert .depicter-1-element-8{
+	font-size:15px;
+	color:#000000;
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-4{
+	font-size:16px;
+	color:rgba(0, 0, 0, 0.7);
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:43px;
+	color:#FFB340;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-2{
+	font-size:43px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-element-19{
+	font-size:16px;
+	color:#000000;
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	text-transform:capitalize;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-18{
+	font-size:16px;
+	color:#FFB340;
+	font-family:"Outfit";
+	font-weight:700;
+	line-height:140%;
+	text-transform:capitalize;
+	letter-spacing:1px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-15{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-1-element-14{
+	background-color:#FFB340;
+}
+.depicter-revert .depicter-1-element-13{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+}
+.depicter-revert .depicter-1-element-12{
+	background-color:#AAAAAA;
+}
+.depicter-revert .depicter-1-element-6{
+	font-size:42px;
+	color:#000;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-7{
+	background-color:#FFB340;
+}
+.depicter-revert .depicter-1-element-5{
+	font-size:13px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Outfit";
+	font-weight:400;
+	background-color:#0D0D0D;
+}
+.depicter-revert .depicter-1-element-8{
+	font-size:15px;
+	color:#000000;
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-4{
+	font-size:13px;
+	color:rgba(0, 0, 0, 0.7);
+	font-family:"Outfit";
+	font-weight:400;
+	line-height:140%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:26px;
+	color:#FFB340;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-2{
+	font-size:26px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFF;
+}
+
+}
