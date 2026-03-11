@@ -69,15 +69,6 @@ The server runs two separate instances of `cloudflared` to support independent C
 
 ---
 
-## 🛠️ Maintenance Commands
-
-| Action | Command |
-| :--- | :--- |
-| **Check Both Tunnels** | `sudo systemctl status cloudflared*` |
-| **Check Web Server** | `sudo systemctl status apache2` |
-| **Bora Access Logs** | `sudo tail -n 20 /var/log/apache2/access.log` |
-| **Learnplus Access Logs** | `sudo tail -n 20 /var/log/apache2/learnplus_access.log` |
-| **Restart Services** | `sudo systemctl restart apache2 cloudflared cloudflared-learnplus` |
 
 ---
 *Setup documented on March 9, 2026. Credentials have been omitted for security.*
