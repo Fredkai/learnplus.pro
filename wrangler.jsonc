@@ -1,0 +1,30 @@
+{
+    "$schema":  "node_modules/wrangler/config-schema.json",
+    "name":  "learnplus-pro",
+    "main":  "src/worker.mjs",
+    "compatibility_date":  "2026-10-12",
+    "assets":  {
+                   "directory":  "./public_html",
+                   "binding":  "ASSETS",
+                   "run_worker_first":  [
+                                            "/api/*"
+                                        ]
+               },
+    "send_email":  [
+                       {
+                           "name":  "CONTACT_EMAIL",
+                           "destination_address":  "learnreachabroad@gmail.com"
+                       }
+                   ],
+    "ratelimits":  [
+                       {
+                           "name":  "CONTACT_LIMITER",
+                           "namespace_id":  "839271",
+                           "simple":  {
+                                          "limit":  5,
+                                          "period":  60
+                                      }
+                       }
+                   ],
+    "account_id":  "aefff59beba7152a6d3f4dea30be4583"
+}

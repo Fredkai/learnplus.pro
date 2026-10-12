@@ -1,0 +1,14 @@
+*
+!index.html
+!services.html
+!privacy.html
+!404.html
+!robots.txt
+!sitemap.xml
+!_headers
+!assets/
+assets/*
+!assets/app.css
+!assets/app.js
+!assets/lp-logo.png
+!assets/students.jpg
