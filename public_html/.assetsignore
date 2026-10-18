@@ -12,3 +12,6 @@ assets/*
 !assets/app.js
 !assets/lp-logo.png
 !assets/students.jpg
+!assets/home-design.css
+
+!assets/work-truck.png
